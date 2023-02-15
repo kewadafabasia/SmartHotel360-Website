@@ -14,7 +14,7 @@
       "defaultValue": "AzureLinuxApp",
       "minLength": 2,
       "metadata": {
-        "description": "Base name of the resource such as web app name and app service plan."
+        "description": "Base name of the resource such as web app name and app service plans."
       }
     },
     "sku": {
